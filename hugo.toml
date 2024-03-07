@@ -4,16 +4,22 @@ title = 'PerforMotion'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
 
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
+
 [languages]
   [languages.fr]
     title = "PerforMotion"
-    weight = 2
+    weight = 1
     contentDir = "content"
 
 [sitemap]
