@@ -1,4 +1,4 @@
-baseURL = 'https://performotion-isen.org/'
+baseURL = 'https://ludivinerbt.github.io/'
 languageCode = 'fr'
 title = 'PerforMotion'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
