@@ -29,6 +29,7 @@ Afin de continuer à faire grandir et évoluer notre projet, voici les prochaine
 - Développement d'une application mobile avec un rendu graphique des données obtenues.  
 - Diversification de la reconnaissance des figures.  
 - Développement d'un boitier avec support de fixation intégré et résistant à l'eau et la transpiration.  
+- Ajout d'un module vibreur (GT523) afin de fournir à l'athlète un retour haptique en temps réel par vibration en cas de détection d'un mauvais positionnement.  
 
 
 # Sponsors
