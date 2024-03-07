@@ -11,11 +11,11 @@ Nous sommes des étudiants en 5ème année de l’école d'ingénieurs en élect
 L’équipe est composée de :
 
 Louise BOISSON, option biomédical, **cheffe de projet.**  
-Thomas BEDOUET, option systèmes emabrqués.  
-Baptiste CLAVIERES, option biomédical.  
-Loan COSSON, option biomédical.  
-Gaëlle MONTEIL-COMBABESSOU, option biomédical.  
-Ludivine RIBET, option biomédical.  
+Thomas BEDOUET, option systèmes emabrqués, **ingénieur électronique.**  
+Baptiste CLAVIERES, option biomédical, **développeur logiciel.**  
+Loan COSSON, option biomédical, **développeur logiciel.**  
+Gaëlle MONTEIL-COMBABESSOU, option biomédical, **responsable qualité et tests.**  
+Ludivine RIBET, option biomédical, **responsable SHES.**  
 
 {{< figure src="/images/equipe2.JPG" title="Photo d'équipe lors des Olympiades des I-Novgames, le 19/10/2023" >}}  
 
