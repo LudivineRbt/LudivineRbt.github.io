@@ -18,10 +18,11 @@ Notre dispositif doit mettre en avant les caractéristiques suivantes :
 
 ## Composants : 
 Pour ce projet, nous devions travailler avec des cartes fournies par ST Microelectronics. Notre choix s'est porté sur la **STEVAL Proteus 1**.
-Ce kit a retenu notre attention pour les caractéristiques suivantes :   
+Ce kit a retenu notre attention pour les caractéristiques suivantes : 
+  
 **-Accéléromètre et gyroscope intégré :** ces capteurs de haute précision nous permettent de mesurer et quantifier les mouvements de rotation, la vitesse angulaire, l'accélération et autres paramètres cinématiques.  
 **-Connectivité :** Ce kit est équipé d'une connectivité sans fil Bluetooth afin de transmettre les données collectées en temps réel à un dispositif de réception externe.  
-**-Alimentation :** La batterie intégrée permet au dispositif d'être autonome pour un utilisation continue lors des épreuves et entraînements sportifs.  
+**-Alimentation :** La batterie intégrée permet au dispositif d'être autonome pour un utilisation continue lors des épreuves et entraînements sportifs. Son autonomie est évaluée entre 74h et 84h, soit 10 jours d'entraînement.  
 **-Support :** Petit et compact, le dispositif est léger et d'adapte à la morphologie et aux mouvements des athlètes sans provoquer de gêne.
 
 Enfin, notre protoype s'accompagne d'une carte **Raspberry Pi 3**, un dispositif de réception externe permettant d'analyser les données.
