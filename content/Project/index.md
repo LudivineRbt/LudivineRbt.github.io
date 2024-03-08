@@ -20,7 +20,7 @@ Notre dispositif doit mettre en avant les caractéristiques suivantes :
 Pour ce projet, nous devions travailler avec des cartes fournies par ST Microelectronics. Notre choix s'est porté sur la **STEVAL Proteus 1**.
 Ce kit a retenu notre attention pour les caractéristiques suivantes : 
 
-{{< figure src="/images/st.webp" title="STeval Proteus 1" >}}  
+{{< figure src="/images/steval.png" title="STeval Proteus 1" >}}  
 
 **-Accéléromètre et gyroscope intégré :** ces capteurs de haute précision nous permettent de mesurer et quantifier les mouvements de rotation, la vitesse angulaire, l'accélération et autres paramètres cinématiques.  
 **-Connectivité :** Ce kit est équipé d'une connectivité sans fil Bluetooth afin de transmettre les données collectées en temps réel à un dispositif de réception externe.  
@@ -40,13 +40,13 @@ Les données collectées peuvent également être stockées pour une analyse ult
 Afin de mieux illustrer le mode de fonctionnement de notre projet, voici les différentes architectures que nous avons établies :  
 
 **Architecture statique :**
-{{< figure src="/images/statique.png" title="Architecture Statique" >}}
+{{< figure src="/images/statique.png" >}}
 
 **Architecture dynamique :**
-{{< figure src="/images/dynamique.png" title="Architecture dynamique" >}}
+{{< figure src="/images/dynamique.png" >}}
 
 **Processus BLE :**
-{{< figure src="/images/BLE.png" title="Processus BLE" >}}
+{{< figure src="/images/BLE.png" >}}
 
 # Design : 
 La conception ergonomique du dispositif est un aspect essentiel de notre projet. Notre approche repose sur l'utilisation d’un élastique se fixant selon les préférences du sportif, avec le dispositif électronique fixés par bandes auto-agrippantes. Le système sera spécialement conçu pour s'adapter de manière confortable aux athlètes sans entraver leur performance.  
