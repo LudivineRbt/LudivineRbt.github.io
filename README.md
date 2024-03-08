@@ -2,7 +2,7 @@
 [[TOC]]
 
 # Description
-Ce dépôt est l'emplacement du code source du site web de Performotion, disponible à l'adresse suivante: [enter address here]. Il est généré par la version extended d'[HUGO](https://gohugo.io/).
+Ce dépôt est l'emplacement du code source du site web de Performotion, disponible à l'adresse suivante: [\[enter address here\]](https://ludivinerbt.github.io/project/). Il est généré par la version extended d'[HUGO](https://gohugo.io/).
 
 # Bugs connus
 Aucun pour le moment.
