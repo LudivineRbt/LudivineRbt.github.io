@@ -37,6 +37,17 @@ Le système de traitement des données analyse les données, et reconnait de man
 L'interface utilisateur affiche les résultats sur un PC, fournissant des retours à l'athlète sur sa performance.  
 Les données collectées peuvent également être stockées pour une analyse ultérieure ou pour suivre la progression de l'athlète. 
 
+Afin de mieux illustrer le mode de fonctionnement de notre projet, voici les différentes architectures que nous avons établies :  
+
+**Architecture statique :**
+{{< figure src="/images/statique.png" title="Architecture Statique" >}}
+
+**Architecture dynamique :**
+{{< figure src="/images/dynamique.png" title="Architecture dynamique" >}}
+
+**Processus BLE :**
+{{< figure src="/images/BLE.png" title="Processus BLE" >}}
+
 # Design : 
 La conception ergonomique du dispositif est un aspect essentiel de notre projet. Notre approche repose sur l'utilisation d’un élastique se fixant selon les préférences du sportif, avec le dispositif électronique fixés par bandes auto-agrippantes. Le système sera spécialement conçu pour s'adapter de manière confortable aux athlètes sans entraver leur performance.  
 {{< figure src="/images/Zoom_fort.png" title="Photographie du design de notre prototype" >}}
